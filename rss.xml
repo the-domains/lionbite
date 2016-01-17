@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lionbite]]></title>
         <description><![CDATA[Lionbite]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lionbite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 09:24:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 09:25:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lionbite/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Stockholm lion’s den up and running]]></title>
             <description><![CDATA[<h1>The Stockholm lion’s den up and running</h1>]]></description>
-            <link>undefinedthe-stockholm-lions-den-up-and-running/index.html</link>
+            <link>https://thegrid.ai/lionbite/the-stockholm-lions-den-up-and-running/index.html</link>
             <guid isPermaLink="false">24c3d497-4d61-4be0-90a2-46561ce8a23f</guid>
-            <pubDate>Sun, 17 Jan 2016 09:24:13 GMT</pubDate>
+            <pubDate>Sun, 17 Jan 2016 09:25:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
