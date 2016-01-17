@@ -1,14 +1,29 @@
+name: Lionbite
+favicon: null
 layout_spectrum: 0.1734694
+typography_spectrum: 0.9661654
+title: Lionbite
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.736091
-  brandStrength: 1
-  lightness: 0
   brandColors:
     - '#DED9D6'
     - '#280B16'
     - '#9A8780'
     - '#88281F'
     - '#FDFA5C'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.736091
   rhythmicContrast: 0.5921255
-typography_spectrum: 0.9661654
-name: Lionbite
+purpose: []
