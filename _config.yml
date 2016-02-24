@@ -1,29 +1,41 @@
-name: Lionbite
-favicon: null
-layout_spectrum: 0.1734694
-typography_spectrum: 0.9661654
 title: Lionbite
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.736091
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#FFFFFF'
+    - '#010101'
+    - '#125688'
+    - '#C6C7C6'
+    - '#777877'
+  rhythmicContrast: 0.5921255
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Lionbite
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#DED9D6'
-    - '#280B16'
-    - '#9A8780'
-    - '#88281F'
-    - '#FDFA5C'
-  brandStrength: 1
-  lightness: 0
-  saturation: 0.736091
-  rhythmicContrast: 0.5921255
-purpose: []
+typography_spectrum: 0.9661654
+layout_spectrum: 0.1734694
